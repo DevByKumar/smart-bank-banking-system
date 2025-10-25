@@ -48,7 +48,7 @@ This flow allows approved customers to apply for loans, which are then reviewed 
 
 * **Backend:** Python (Django)
 * **Database:** MYSQL
-* **Frontend:** React, JavaScript
+* **Frontend:** HTML, Bootstrap, JavaScript, React 
 
 -------------------
 **commands to run project**
