@@ -49,3 +49,21 @@ This flow allows approved customers to apply for loans, which are then reviewed 
 * **Backend:** Python (Django)
 * **Database:** MYSQL
 * **Frontend:** React, JavaScript
+
+-------------------
+**commands to run project**
+1)Navigate to Project Directory:
+cd Hackathon\banking
+
+2)Install Requirements (
+pip install Django Pillow mysqlclient
+
+3)Apply Migrations:
+python manage.py makemigrations
+python manage.py migrate
+
+4)Create Admin User
+python manage.py createsuperuser
+
+5)Run Server:
+python manage.py runserver
