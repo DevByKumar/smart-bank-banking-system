@@ -68,3 +68,19 @@ python manage.py createsuperuser
 
 5)Run Server:
 python manage.py runserver
+
+
+**Result**
+<img width="1884" height="862" alt="image" src="https://github.com/user-attachments/assets/2d356e58-d946-483a-8e6b-f19649df581e" />
+<img width="1865" height="606" alt="image" src="https://github.com/user-attachments/assets/54d9e815-6ae4-4a3f-876a-005377a09707" />
+<img width="1914" height="781" alt="image" src="https://github.com/user-attachments/assets/67028a30-96f2-406f-b5a3-c9ff31e961f3" />
+<img width="1910" height="679" alt="image" src="https://github.com/user-attachments/assets/9c899c52-7927-4bd0-8f67-db21e6e29361" />
+<img width="1914" height="759" alt="image" src="https://github.com/user-attachments/assets/d72f4fb3-92b1-4009-bfcc-25275ea30b9a" />
+<img width="1915" height="743" alt="image" src="https://github.com/user-attachments/assets/c3f2cecd-8097-44bb-8c9f-1f9f269171b1" />
+<img width="1918" height="657" alt="image" src="https://github.com/user-attachments/assets/121f6efb-edd4-4dbb-8291-35e30639ca48" />
+
+
+
+
+
+
