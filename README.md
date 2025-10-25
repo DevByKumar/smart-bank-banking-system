@@ -88,6 +88,14 @@ python manage.py runserver
 <img width="1914" height="759" alt="image" src="https://github.com/user-attachments/assets/d72f4fb3-92b1-4009-bfcc-25275ea30b9a" />
 <img width="1915" height="743" alt="image" src="https://github.com/user-attachments/assets/c3f2cecd-8097-44bb-8c9f-1f9f269171b1" />
 <img width="1918" height="657" alt="image" src="https://github.com/user-attachments/assets/121f6efb-edd4-4dbb-8291-35e30639ca48" />
+<img width="1917" height="679" alt="image" src="https://github.com/user-attachments/assets/7d57a2d7-5b48-4814-91ed-6d6dad80874e" />
+<img width="1911" height="661" alt="image" src="https://github.com/user-attachments/assets/fef5e102-d2fd-40b6-9174-da1b8b5f385d" />
+<img width="1919" height="834" alt="image" src="https://github.com/user-attachments/assets/1e730439-50cc-4e28-9f0d-6bd199c88877" />
+<img width="1913" height="863" alt="image" src="https://github.com/user-attachments/assets/0caad41f-a80e-4b1f-b463-738b488bad52" />
+
+
+
+
 
 
 
