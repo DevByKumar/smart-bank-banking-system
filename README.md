@@ -52,6 +52,7 @@ This flow allows approved customers to apply for loans, which are then reviewed 
 
 -------------------
 **commands to run project**
+
 1)Navigate to Project Directory:
 cd Hackathon\banking
 
